@@ -1,4 +1,4 @@
-#pretragaserija
+#pretragaserija-
 Zavrsni rad
 
 Radi se o pretrazi Tv serija. 
